@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityApi", "IdentityApi\IdentityApi.csproj", "{F45CEAE0-F039-4F67-BD8E-A1D1A63A5E19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sql.Data", "Sql.Data\Sql.Data.csproj", "{C9A2B75D-2E43-45F7-A4CF-E628358BC314}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F45CEAE0-F039-4F67-BD8E-A1D1A63A5E19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F45CEAE0-F039-4F67-BD8E-A1D1A63A5E19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F45CEAE0-F039-4F67-BD8E-A1D1A63A5E19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F45CEAE0-F039-4F67-BD8E-A1D1A63A5E19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9A2B75D-2E43-45F7-A4CF-E628358BC314}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9A2B75D-2E43-45F7-A4CF-E628358BC314}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9A2B75D-2E43-45F7-A4CF-E628358BC314}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9A2B75D-2E43-45F7-A4CF-E628358BC314}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62FAC781-1882-404F-B556-D7C2856FB482}
+	EndGlobalSection
+EndGlobal
